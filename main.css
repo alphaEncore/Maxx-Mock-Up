@@ -1,0 +1,43 @@
+h1 {
+    text-align: right;
+}
+
+h2 {
+    text-align: right;
+}
+
+h3 {}
+
+h4 {}
+
+h5 {
+    color: #BB1F25;
+    font-family: Baskerville italic 24pt;
+}
+
+.intro {
+    float: right;
+}
+
+.Company-Logo {
+    float: left;
+}
+
+.grid {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+body {
+    text-align: center;
+}
+
+.top {
+    text-align: center;
+}
+
+.PORTFOLIO {
+    text-align: center;
+}
